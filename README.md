@@ -27,7 +27,7 @@ opportunities to expand my skills in the world of DATA.
 <br/>
 
 ### Bizness
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/12z5Ig5x4RNoIUpQ-M7AMl1NL8FTIvlaU/view?usp=sharing)
+- :paperclip: [My Resume/CV](https://github.com/OlhaKutsa/DataAnalysisPortfolio/blob/main/CV_Kutsa_Olha.pdf)
 - :email: olhakutsa10@gmail.com
 
 <br/>
