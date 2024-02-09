@@ -17,7 +17,7 @@ opportunities to expand my skills in the world of DATA.
 
 #### Top Technologies
 
-[![React Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://www.python.org/) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://uk.wikipedia.org/wiki/JavaScript) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://www.python.org/) [![Javascript Badge](https://img.shields.io/badge/-BigQuery-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://cloud.google.com/bigquery?hl=en) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 ### Tutorials
 
@@ -36,7 +36,7 @@ opportunities to expand my skills in the world of DATA.
 ### My stats ⭐
 
 <div align="center">
-<img alt="DEMA GitHub stats" src="https://github-readme-stats.vercel.app/api?username=stebnyk3806&show_icons=true&theme=transparent"/>
+<img alt="Olha Kutsa GitHub stats" src="https://github-readme-stats.vercel.app/api?username=stebnyk3806&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymRudnyi&layout=compact&&langs_count=8"/>
 </div>
 
