@@ -35,8 +35,7 @@ opportunities to expand my skills in the world of DATA.
 ### My stats ⭐
 
 <div align="center">
-<img alt="Olha Kutsa GitHub stats" src="https://github-readme-stats.vercel.app/api?username=stebnyk3806&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymRudnyi&layout=compact&&langs_count=8"/>
+<img alt="Olha Kutsa GitHub stats" src="https://github-readme-stats.vercel.app/api?username=OlhaKutsa&show_icons=true&theme=transparent"/>
 </div>
 
 ### Profile views counter 👁️‍🗨️
