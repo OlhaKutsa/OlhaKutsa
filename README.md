@@ -39,4 +39,4 @@ opportunities to expand my skills in the world of DATA.
 </div>
 
 ### Profile views counter 👁️‍🗨️
-![OlhaKutsa profile views](https://komarev.com/ghpvc/?username=OlhaKutsa)
+[![Olha Kutsa profile views](https://u8views.com/api/v1/github/profiles/159557098/views/day-week-month-total-count.svg)](https://u8views.com/github/OlhaKutsa)
