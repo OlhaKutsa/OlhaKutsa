@@ -39,3 +39,4 @@ opportunities to expand my skills in the world of DATA.
 </div>
 
 ### Profile views counter 👁️‍🗨️
+![OlhaKutsa profile views](https://komarev.com/ghpvc/?username=OlhaKutsa)
