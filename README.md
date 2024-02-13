@@ -27,7 +27,7 @@ opportunities to expand my skills in the world of DATA.
 <br/>
 
 ### MY
-- :paperclip: [My Resume/CV](https://github.com/OlhaKutsa/DataAnalysisPortfolio/blob/main/CV_Kutsa_Olha.pdf)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1kKNPPuAMQDU3dBUg37hQ2dR0By9oRUhE/view?usp=sharing)
 - :email: olhakutsa10@gmail.com
 
 <br/>
