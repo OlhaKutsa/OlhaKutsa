@@ -9,7 +9,7 @@ continuously, always looking for new challenges and
 opportunities to expand my skills in the world of DATA.
 
 
-[![Static Badge](https://img.shields.io/badge/YouTube-e74c3c?style=flat&logo=youtube&logoColor=white&labelColor=e74c3c&link=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3D8ho4Xp-9vqI%26t%3D24s)](https://m.youtube.com/watch?v=8ho4Xp-9vqI&t=24s)
+[![Static Badge](https://img.shields.io/badge/YouTube-e74c3c?style=flat&logo=youtube&logoColor=white&labelColor=e74c3c&link=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3D8ho4Xp-9vqI%26t%3D24s)]()
 [![Twitter Badge](https://img.shields.io/badge/-@OlhaKutsa-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MaksymRudnyi)](https://twitter.com/MaksymRudnyi) 
 [![Linkedin Badge](https://img.shields.io/badge/-OlhaKutsa-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olha-kutsa-8b2a5a2a2/) 
 [![Mail Badge](https://img.shields.io/badge/-OlhaKutsa-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/maksym_rudnyi/) 
