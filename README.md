@@ -17,12 +17,12 @@ opportunities to expand my skills in the world of DATA.
 
 #### Top Technologies
 
-[![React Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://www.python.org/) [![Javascript Badge](https://img.shields.io/badge/-BigQuery-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://cloud.google.com/bigquery?hl=en) [![Typescript Badge](https://img.shields.io/badge/-Tableau-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://www.tableau.com/) [![Nodejs Badge](https://img.shields.io/badge/-LookerStudio-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://lookerstudio.google.com/navigation/reporting) [![GraphQL Badge](https://img.shields.io/badge/-GoogleSheets-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](https://www.google.com/intl/en_en/sheets/about/)
+[![Static Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](https://www.python.org/) [![Static Badge](https://img.shields.io/badge/-googlebigquery-F0DB4F?style=for-the-badge&labelColor=black&logo=googlebigquery&logoColor=F0DB4F)](https://cloud.google.com/bigquery?hl=en) [![Static Badge](https://img.shields.io/badge/-tableau-007acc?style=for-the-badge&labelColor=black&logo=tableau&logoColor=007acc)](https://www.tableau.com/) [![Static Badge](https://img.shields.io/badge/-LookerStudio-3C873A?style=for-the-badge&labelColor=black&logo=looker&logoColor=3C873A)](https://lookerstudio.google.com/navigation/reporting) [![Static Badge](https://img.shields.io/badge/-GoogleSheets-e535ab?style=for-the-badge&labelColor=black&logo=googlesheets&logoColor=e535ab)](https://www.google.com/intl/en_en/sheets/about/)
 
 ### Tutorials
 
-[![React Badge](https://img.shields.io/badge/-GoogleDataAnalytics-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://www.coursera.org/professional-certificates/google-data-analytics?) 
-[![React Badge](https://img.shields.io/badge/-IbmDataAnalyst-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://www.coursera.org/professional-certificates/ibm-data-analyst) 
+[![coursera Badge](https://img.shields.io/badge/-GoogleDataAnalytics-61DBFB?style=for-the-badge&labelColor=black&logo=coursera&logoColor=61DBFB)](https://www.coursera.org/professional-certificates/google-data-analytics?) 
+[![coursera Badge](https://img.shields.io/badge/-IbmDataAnalyst-61DBFB?style=for-the-badge&labelColor=black&logo=coursera&logoColor=61DBFB)](https://www.coursera.org/professional-certificates/ibm-data-analyst) 
 
 <br/>
 
